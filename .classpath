@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Demo_SpringORM_DELETE/.mvn/wrapper"/>
+	<classpathentry kind="src" path="Demo_SpringORM_DELETE/src/main/java"/>
+	<classpathentry kind="src" path="Demo_SpringORM_DELETE/src/test/java"/>
+	<classpathentry kind="lib" path="Demo_SpringORM_DELETE/bin/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="output" path="Demo_SpringORM_DELETE/target/classes"/>
+</classpath>
